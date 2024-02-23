@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **Amazon Web Services**
 
 - 📫 How to reach me **laibabintatahir@gmail.com**
+  
+- 👨‍💻 All of my projects are available at [https://laiba-portfolio.vercel.app/](https://laiba-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
