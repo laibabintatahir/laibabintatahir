@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm laiba.</h1>
 <h3 align="center">A passionate Software engineer from Pakistan.</h3>
 
-- 🔭 I’m currently working on **multipurpose eCommerce**
+- 🔭 I’m currently working on **women-footwear eCommerce shop**
 
 - 📫 You can contact me at **laibabintatahir@gmail.com**
   
