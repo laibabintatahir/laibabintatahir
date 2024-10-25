@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm laiba</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate 
+        Software Engineer from Pakistan</h3>
 
 - 👨‍💻 All of my projects are available at [https://laiba-portfolio.vercel.app/](https://laiba-portfolio.vercel.app/)
 
