@@ -2,7 +2,7 @@
 <h3 align="center">A passionate 
         Software Engineer from Pakistan</h3>
 
-- 👨‍💻 All of my projects are available at [https://laiba-portfolio.vercel.app/](https://laiba-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://laibabintetahir.vercel.app/](https://laibabintetahir.vercel.app/)
 
 - 📫 How to reach me **laibabintatahir@gmail.com**
 
